@@ -1,0 +1,18 @@
+Students ids:
+1. 039525910
+2. 203925680
+
+Students names:
+1. Itamar Silverstein
+2. Doron Mor
+
+Operating system:
+Windows7 - 64Bit
+
+Development enviroment:
+Visual Studio 10
+
+Notes: 
+1. In addition to the output txt files, there are also HTML files for a better read and more info.
+   The HTML files have also indicatiors when: next_token, back_token & match function trigger.
+2. There is a readable output HTML file with tables of semantic analysis (example image named 'Semantic Analysis eg' is attached).
